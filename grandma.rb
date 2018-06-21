@@ -5,6 +5,8 @@ if(phrase)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 return "HUH?! SPEAK UP, SONNY!"
+
+elsif(phrase == phrase.upcase())
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
 

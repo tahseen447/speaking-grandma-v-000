@@ -7,8 +7,8 @@ if(phrase == "I LOVE YOU GRANDMA!")
 
 return 'I LOVE YOU TOO PUMPKIN!'
 
-elsif(phrase == phrase.upcase)
-  return "HUH?! SPEAK UP, SONNY!"
+#elsif(phrase == phrase.upcase)
+#  return "HUH?! SPEAK UP, SONNY!"
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
